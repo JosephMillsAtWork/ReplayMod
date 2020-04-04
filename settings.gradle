@@ -12,6 +12,7 @@ jGuiVersions += [
         '1.12',
         '1.13.2',
         '1.14.4',
+        '1.15.2'
 ]
 replayModVersions += [
         'core',
@@ -27,6 +28,7 @@ replayModVersions += [
         '1.12.2',
         '1.13.2',
         '1.14.4',
+        '1.15.2'
 ]
 
 include ':jGui'
