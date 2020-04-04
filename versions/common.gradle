@@ -215,13 +215,13 @@ dependencies {
                 11502: '1.15.2',
         ][mcVersion]
         mappings 'net.fabricmc:yarn:' + [
-                11502: '1.15.2+build.15',
+                11502: '1.15.2+build.15:v2',
         ][mcVersion]
         modCompile 'net.fabricmc:fabric-loader:' + [
                 11502: '0.7.10+build.191',
         ][mcVersion]
         modCompile 'net.fabricmc.fabric-api:fabric-api:' + [
-                11502: '0.5.1+build.294',
+                11502: '0.5.1+build.294-1.15',
         ][mcVersion]
     }
 
